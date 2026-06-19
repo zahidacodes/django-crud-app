@@ -25,11 +25,11 @@ The Django CRUD App allows users to manage records efficiently. Users can add ne
 
 ## Screenshots
 
-### Home Page 1
+### Home Page 
 
 ![Home Page 1](ProjectScreenshots/Home_Page1.JPG)
 
-### Home Page 2
+### Home Page 
 
 ![Home Page 2](ProjectScreenshots/Home_Page2.JPG)
 
@@ -37,7 +37,7 @@ The Django CRUD App allows users to manage records efficiently. Users can add ne
 
 ![Update Page](ProjectScreenshots/Update_Page.JPG)
 
-### Home Page 3
+### Home Page (After Updating a record)
 
 ![Home Page 3](ProjectScreenshots/Home_Page3.JPG)
 
